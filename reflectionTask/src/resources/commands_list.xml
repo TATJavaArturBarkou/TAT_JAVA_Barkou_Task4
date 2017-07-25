@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+
+<tc:commands xmlns:tc="http://www.barkou.com/command"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.barkou.com/command schema.xsd">
+
+	<command>AddAdminRights</command>
+	<command>AddBook</command>
+	<command>GetAllAvailableBooks</command>
+	<command>GetAvailableBook</command>
+	<command>GetUser</command>
+	<command>OrderBook</command>
+	<command>SetUserBanned</command>
+	<command>ShowProfile</command>
+	<command>SignIn</command>
+	<command>SignOut</command>
+	<command>SignUp</command>
+	<command>UpdateBook</command>
+	<command>UpdateProfile</command>
+	<command>WrongRequest</command>
+
+</tc:commands>
